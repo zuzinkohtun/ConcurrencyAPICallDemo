@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ZuZin\\Learning\\ConcurrentAPIsCallDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49B22C89-2197-46FE-A54A-6A3C406D1C46}|ConcurrentAPIsCallDemo\\ConcurrentAPIsCallDemo.csproj|d:\\zuzin\\learning\\concurrentapiscalldemo\\concurrentapiscalldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B22C89-2197-46FE-A54A-6A3C406D1C46}|ConcurrentAPIsCallDemo\\ConcurrentAPIsCallDemo.csproj|solutionrelative:concurrentapiscalldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49B22C89-2197-46FE-A54A-6A3C406D1C46}|ConcurrentAPIsCallDemo\\ConcurrentAPIsCallDemo.csproj|d:\\zuzin\\learning\\concurrentapiscalldemo\\concurrentapiscalldemo\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B22C89-2197-46FE-A54A-6A3C406D1C46}|ConcurrentAPIsCallDemo\\ConcurrentAPIsCallDemo.csproj|solutionrelative:concurrentapiscalldemo\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 130,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestModel.cs",
+              "DocumentMoniker": "D:\\ZuZin\\Learning\\ConcurrentAPIsCallDemo\\ConcurrentAPIsCallDemo\\RequestModel.cs",
+              "RelativeDocumentMoniker": "ConcurrentAPIsCallDemo\\RequestModel.cs",
+              "ToolTip": "D:\\ZuZin\\Learning\\ConcurrentAPIsCallDemo\\ConcurrentAPIsCallDemo\\RequestModel.cs",
+              "RelativeToolTip": "ConcurrentAPIsCallDemo\\RequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:02:53.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ZuZin\\Learning\\ConcurrentAPIsCallDemo\\ConcurrentAPIsCallDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ConcurrentAPIsCallDemo\\Program.cs",
+              "ToolTip": "D:\\ZuZin\\Learning\\ConcurrentAPIsCallDemo\\ConcurrentAPIsCallDemo\\Program.cs",
+              "RelativeToolTip": "ConcurrentAPIsCallDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:00:00.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 79,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{797f5b3d-853a-4854-a9f2-c488bac2661b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

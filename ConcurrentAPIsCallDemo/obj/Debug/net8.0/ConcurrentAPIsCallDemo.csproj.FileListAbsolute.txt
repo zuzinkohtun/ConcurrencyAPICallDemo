@@ -1,0 +1,14 @@
+D:\ZuZin\Learning\ConcurrentAPIsCallDemo\ConcurrentAPIsCallDemo\bin\Debug\net8.0\ConcurrentAPIsCallDemo.exe
+D:\ZuZin\Learning\ConcurrentAPIsCallDemo\ConcurrentAPIsCallDemo\bin\Debug\net8.0\ConcurrentAPIsCallDemo.deps.json
+D:\ZuZin\Learning\ConcurrentAPIsCallDemo\ConcurrentAPIsCallDemo\bin\Debug\net8.0\ConcurrentAPIsCallDemo.runtimeconfig.json
+D:\ZuZin\Learning\ConcurrentAPIsCallDemo\ConcurrentAPIsCallDemo\bin\Debug\net8.0\ConcurrentAPIsCallDemo.dll
+D:\ZuZin\Learning\ConcurrentAPIsCallDemo\ConcurrentAPIsCallDemo\bin\Debug\net8.0\ConcurrentAPIsCallDemo.pdb
+D:\ZuZin\Learning\ConcurrentAPIsCallDemo\ConcurrentAPIsCallDemo\obj\Debug\net8.0\ConcurrentAPIsCallDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZuZin\Learning\ConcurrentAPIsCallDemo\ConcurrentAPIsCallDemo\obj\Debug\net8.0\ConcurrentAPIsCallDemo.AssemblyInfoInputs.cache
+D:\ZuZin\Learning\ConcurrentAPIsCallDemo\ConcurrentAPIsCallDemo\obj\Debug\net8.0\ConcurrentAPIsCallDemo.AssemblyInfo.cs
+D:\ZuZin\Learning\ConcurrentAPIsCallDemo\ConcurrentAPIsCallDemo\obj\Debug\net8.0\ConcurrentAPIsCallDemo.csproj.CoreCompileInputs.cache
+D:\ZuZin\Learning\ConcurrentAPIsCallDemo\ConcurrentAPIsCallDemo\obj\Debug\net8.0\ConcurrentAPIsCallDemo.dll
+D:\ZuZin\Learning\ConcurrentAPIsCallDemo\ConcurrentAPIsCallDemo\obj\Debug\net8.0\refint\ConcurrentAPIsCallDemo.dll
+D:\ZuZin\Learning\ConcurrentAPIsCallDemo\ConcurrentAPIsCallDemo\obj\Debug\net8.0\ConcurrentAPIsCallDemo.pdb
+D:\ZuZin\Learning\ConcurrentAPIsCallDemo\ConcurrentAPIsCallDemo\obj\Debug\net8.0\ConcurrentAPIsCallDemo.genruntimeconfig.cache
+D:\ZuZin\Learning\ConcurrentAPIsCallDemo\ConcurrentAPIsCallDemo\obj\Debug\net8.0\ref\ConcurrentAPIsCallDemo.dll
